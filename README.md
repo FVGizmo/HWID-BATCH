@@ -2,15 +2,28 @@ HWID Checker
 
 Overview
 
+
+
+
 This project provides a simple HWID (Hardware ID) checker that allows users to retrieve their unique system identifier. It includes two versions:
 Executable (.exe) HWID Checker – A precompiled binary for ease of use.
 Batch (.bat) HWID Checker – A script-based alternative for those who prefer to see the source code.
 
+
+
+
+
 Features
+
 
 Retrieves the HWID of the system.
 Provides an .exe version for a quick and easy check.
 Includes a .bat version for transparency and access to the source code.
+
+
+
+
+
 
 Usage
 
@@ -27,6 +40,8 @@ Copy the HWID if needed.
 Requirements
 
 Windows OS
+
+
 
 Notes
 
